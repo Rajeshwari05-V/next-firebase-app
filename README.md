@@ -14,8 +14,3 @@ This repo documents my step-by-step journey from scaffolding a Next.js app to in
 
 ---
 
-## 📂 Project Setup
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/<your-username>/next-firebase-app.git
-   cd next-firebase-app
