@@ -58,7 +58,7 @@ order: { id, product_id, buyer_specs{}, status, price_final }
 
 **Day‑wise**
 - **Day 1** – ✅ Scaffold Next.js, repo, README
-- **Day 2** – Media pipeline: upload → storage; background remove/compress worker (stub OK)
+- **Day 2** – ✅Firebase setup done on Day 2 as a prerequisite for storage & media pipeline
 - **Day 3** – Voice → transcript → generate title/bullets/story (template), translation + TTS (stub/sample)
 - **Day 4** – Public product page + mini‑store + share link
 - **Day 5** – Visual search (embeddings index, top‑k UI)
