@@ -106,12 +106,22 @@ NEXT_PUBLIC_FIREBASE_APP_ID=
 
 ---
 
-## ✅ Day‑1 Progress Log
+## ✅ Day‑1 Progress Log 
 - [x] Next.js scaffolded (`create-next-app`)
 - [x] Repo connected & pushed to GitHub
 - [x] README with problem, solution, MVP, roadmap (this file)
 - [ ] Firebase init & config file
 - [ ] Upload page stub
+      
+---
+
+### ✅ Day 2
+- Installed & configured **Firebase**
+- Added **Firebase Auth** and **Firestore**
+- Created **Firebase Test Page**:
+  - Signup/Login with Email & Password
+  - Add user to Firestore
+  - Fetch users and display them  
 
 ---
 
