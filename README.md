@@ -121,7 +121,19 @@ NEXT_PUBLIC_FIREBASE_APP_ID=
 - Created **Firebase Test Page**:
   - Signup/Login with Email & Password
   - Add user to Firestore
-  - Fetch users and display them  
+  - Fetch users and display them
+ 
+## 🚀 Day 3 Progress Log  
+
+### ✅ What I did today  
+- Fixed path issue (navigated correctly into `hackathon-next` folder).  
+- Verified project structure (`package.json`, `src/`, `pages/`, `public/` etc.).  
+- Successfully started Next.js local development server with `npm run dev`.  
+- Prepared Firebase integration plan (Auth + Fake Storage using placeholder URLs).  
+
+### 🌟 Reflections  
+Day 3 was about getting unstuck and finally seeing the project run locally 🎉  
+Excited to integrate Firebase tomorrow!   
 
 ---
 
