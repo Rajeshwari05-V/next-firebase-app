@@ -106,34 +106,51 @@ NEXT_PUBLIC_FIREBASE_APP_ID=
 
 ---
 
-## ✅ Day‑1 Progress Log 
-- [x] Next.js scaffolded (`create-next-app`)
-- [x] Repo connected & pushed to GitHub
-- [x] README with problem, solution, MVP, roadmap (this file)
-- [ ] Firebase init & config file
-- [ ] Upload page stub
-      
+# 🛠️ Hackathon Progress Log
+
+## ✅ Day 1 – Setup & Project Scaffolding
+- Setup Next.js + TypeScript project
+- Initialized Firebase project
+- Added `.env.local.example` for API keys
+- Confirmed dev server runs at `http://localhost:3000`
+
+🌟 Reflections:  
+Exciting start! Got the base scaffolding ready. Tomorrow’s focus is authentication.
+
 ---
 
-### ✅ Day 2
-- Installed & configured **Firebase**
-- Added **Firebase Auth** and **Firestore**
-- Created **Firebase Test Page**:
-  - Signup/Login with Email & Password
-  - Add user to Firestore
-  - Fetch users and display them
- 
-## 🚀 Day 3 Progress Log  
+## ✅ Day 2 – Firebase Auth Integration (Start)
+- Installed Firebase SDK
+- Configured Firebase in `lib/firebase.ts`
+- Started Signup/Login page (basic form UI)
+- Initial Firebase Auth errors (`auth/configuration-not-found`)
 
-### ✅ What I did today  
-- Fixed path issue (navigated correctly into `hackathon-next` folder).  
-- Verified project structure (`package.json`, `src/`, `pages/`, `public/` etc.).  
-- Successfully started Next.js local development server with `npm run dev`.  
-- Prepared Firebase integration plan (Auth + Fake Storage using placeholder URLs).  
+🌟 Reflections:  
+Hit a blocker with Firebase Auth config. Tomorrow’s goal: debug config + connect Firestore.
 
-### 🌟 Reflections  
-Day 3 was about getting unstuck and finally seeing the project run locally 🎉  
-Excited to integrate Firebase tomorrow!   
+---
+
+## ✅ Day 3 – Firebase Auth Integration (Working 🎉)
+- Fixed Firebase config issue
+- Signup/Login works ✅
+- Users stored in Firestore after signup
+- Local testing successful
+
+🌟 Reflections:  
+Finally working! Auth + Firestore integrated. On track for Day 4 (Voice transcript → Product story).
+
+---
+
+## 🚀 Roadmap Ahead
+- ✅ Auth + Firestore
+- 🚧 File Upload (stubbed, no storage yet)
+- 🔥 Day 4: Voice → Transcript → Product Story
+- 🔥 Day 5–6: Gallery + Artisan Profiles
+- 🔥 Day 7–8: UI Polish + Offline Support
+- 🔥 Day 9–10: Final Demo + Pitch
+
+      
+
 
 ---
 
